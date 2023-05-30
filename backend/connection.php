@@ -80,13 +80,13 @@ if($conn->query($trun)){
 }
 
 $inserd = "INSERT INTO users (id, email, password) VALUES
-(1, 'setu@gmail.com', '123'),
-(2, 'shashwat@gmail.com', '1234'),
-(3, 'gautam@gmail.com', '123123')";
+(1, 'sami@gmail.com', '123'),
+(2, 'zeenat@gmail.com', '1234'),
+(3, 'afreen@gmail.com', '123')";
 "COMMIT";
 
 if($conn->query($inserd)){
-  echo "inserd TABLE user 123 successfully";
+  echo "insert TABLE user 123 successfully";
 }
 
 ?>
