@@ -1,5 +1,7 @@
 # Remainder_Management_System
 
+## Deployed Link: http://reminder-app.unaux.com/
+
 ### login page:
 ![image](https://github.com/ZeenatFirdosh/reminder_management_system/assets/100707152/71587b3a-d0bb-4b09-80f3-05a43bbfd2d2)
 
