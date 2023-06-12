@@ -5,6 +5,11 @@
 ### login page:
 ![image](https://github.com/ZeenatFirdosh/reminder_management_system/assets/100707152/71587b3a-d0bb-4b09-80f3-05a43bbfd2d2)
 
+use below credentials to login:</br>
+email: zeenat@gmail.com </br>
+password: 1234 </br>
+
+
 I have developed a reminder management system website using PHP and MySQL. This web application allows users to efficiently manage their reminders and stay organized.
 
 The reminder management system provides a user-friendly interface where users can easily create, edit, and delete reminders. The application utilizes PHP for the backend logic and MySQL as the database management system to store and retrieve reminder data.
