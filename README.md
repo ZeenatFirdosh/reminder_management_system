@@ -9,7 +9,7 @@ use below credentials to login:</br>
 email: zeenat@gmail.com </br>
 password: 1234 </br>
 
-![image](https://github.com/ZeenatFirdosh/reminder_management_system/assets/100707152/c391e34c-ac98-469b-97cc-8173ce3a8d39)
+![image](https://github.com/ZeenatFirdosh/reminder_management_system/assets/100707152/2c0d4a74-e99d-46fc-97fe-41078e175b7a)
 
 I have developed a reminder management system website using PHP and MySQL. This web application allows users to efficiently manage their reminders and stay organized.
 
